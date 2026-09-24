@@ -1,126 +1,166 @@
-# Hi, I'm Sanskriti Singh 👋
+<div align="center">
 
-### Full Stack Developer | AI/ML Enthusiast | B.Tech Undergraduate
+[![Header](https://capsule-render.vercel.app/api?type=rect&color=050005,0D0D1A,2D0050&height=190&section=header&text=SANSKRITI_SINGH.exe&fontColor=EDE9FE&fontSize=38&fontAlignY=48&fontAlign=50&desc=%5B+FULL_STACK+%7C+AI_ML+%7C+SOFTWARE_DEVELOPMENT+%5D&descColor=C4B5FD&descAlignY=68&descSize=14)](https://github.com/singhSanskriti016)
 
-📧 **Email:** singh.sanskriti0016@gmail.com  
-📱 **Phone:** +91-7355993830  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sanskriti-singh-6teen/  
-💻 **GitHub:** https://github.com/singhSanskriti016  
-🧩 **LeetCode:** https://leetcode.com/u/singhsanskriti/
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=initializing+developer_profile...+%5BDONE%5D;building+full_stack_apps...;exploring+AI%2FML+systems...;solving+DSA+problems...;integrating+APIs+%5BDONE%5D)](https://git.io/typing-svg)
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=singhSanskriti016&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge&labelColor=0D0D1A)](https://github.com/singhSanskriti016)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=0D0D1A&labelColor=0D0D1A)](https://www.linkedin.com/in/sanskriti-singh-6teen/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-C4B5FD?style=for-the-badge&logo=leetcode&logoColor=0D0D1A&labelColor=0D0D1A)](https://leetcode.com/u/singhsanskriti/)
 
-## 👩‍💻 About Me
-
-B.Tech Computer Science & Engineering undergraduate graduating in 2027 with hands-on experience in Python, software development, backend development, REST APIs, AI/ML, and application development.
-
-Strong foundation in OOP, DSA, SQL, JavaScript, Git/GitHub, debugging, and problem solving. Familiar with full-stack development technologies including TypeScript, React, MERN, .NET Core, ASP.NET, React Native, and Flutter.
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## ✦ about me
 
-### Programming
-Python • JavaScript • TypeScript • SQL • OOP • Data Structures & Algorithms
-
-### Full Stack Development
-HTML • CSS • JavaScript • React • MERN Stack • TypeScript • REST APIs
-
-### Backend & Frameworks
-FastAPI • .NET Core • ASP.NET • API Development • API Integration • Streamlit
-
-### AI/ML & Generative AI
-Machine Learning • Deep Learning • CNN • NLP • Model Development • RAG • LLM Integration
-
-### Developer Tools
-Git • GitHub • Linux • Docker
+```text
+🦋  Role      →  B.Tech Undergraduate · Full Stack & AI/ML Developer
+🦋  College   →  IEC College of Engineering and Technology
+🦋  Graduation→  2027
+🦋  Focus     →  Full Stack Development · Backend · AI/ML · Generative AI
+🦋  Skills    →  Python · JavaScript · TypeScript · React · FastAPI · MERN
+🦋  Learning  →  RAG · LLM Integration · REST APIs · Machine Learning
+🦋  Status    →  Open to Internships · Collaborations · Development Projects
+```
 
 ---
 
-## 💼 Experience
+## ✦ tech stack
 
-### Full Stack Development Intern — CodeAlpha
+<div align="center">
+
+### 🟣 Languages
+
+![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=EDE9FE&labelColor=0D0D1A)
+![JavaScript](https://img.shields.io/badge/JavaScript-A78BFA?style=for-the-badge&logo=javascript&logoColor=EDE9FE&labelColor=0D0D1A)
+![TypeScript](https://img.shields.io/badge/TypeScript-A78BFA?style=for-the-badge&logo=typescript&logoColor=EDE9FE&labelColor=0D0D1A)
+![SQL](https://img.shields.io/badge/SQL-A78BFA?style=for-the-badge&logo=postgresql&logoColor=EDE9FE&labelColor=0D0D1A)
+
+### 🟣 Full Stack & Backend
+
+![React](https://img.shields.io/badge/React-C4B5FD?style=for-the-badge&logo=react&logoColor=0D0D1A&labelColor=0D0D1A)
+![Node.js](https://img.shields.io/badge/Node.js-C4B5FD?style=for-the-badge&logo=node.js&logoColor=0D0D1A&labelColor=0D0D1A)
+![Express.js](https://img.shields.io/badge/Express.js-C4B5FD?style=for-the-badge&logo=express&logoColor=0D0D1A&labelColor=0D0D1A)
+![FastAPI](https://img.shields.io/badge/FastAPI-C4B5FD?style=for-the-badge&logo=fastapi&logoColor=0D0D1A&labelColor=0D0D1A)
+![.NET](https://img.shields.io/badge/.NET-60A5FA?style=for-the-badge&logo=dotnet&logoColor=EDE9FE&labelColor=0D0D1A)
+
+### 🟣 AI / ML & Generative AI
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-C4B5FD?style=for-the-badge&labelColor=0D0D1A)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-C4B5FD?style=for-the-badge&logo=tensorflow&logoColor=0D0D1A&labelColor=0D0D1A)
+![OpenCV](https://img.shields.io/badge/OpenCV-C4B5FD?style=for-the-badge&logo=opencv&logoColor=0D0D1A&labelColor=0D0D1A)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-C4B5FD?style=for-the-badge&logo=huggingface&logoColor=0D0D1A&labelColor=0D0D1A)
+![LangChain](https://img.shields.io/badge/LangChain-60A5FA?style=for-the-badge&labelColor=0D0D1A)
+![RAG](https://img.shields.io/badge/RAG-60A5FA?style=for-the-badge&labelColor=0D0D1A)
+
+### 🟣 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-60A5FA?style=for-the-badge&logo=git&logoColor=EDE9FE&labelColor=0D0D1A)
+![GitHub](https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0D0D1A)
+![Linux](https://img.shields.io/badge/Linux-C4B5FD?style=for-the-badge&logo=linux&logoColor=0D0D1A&labelColor=0D0D1A)
+![Docker](https://img.shields.io/badge/Docker-60A5FA?style=for-the-badge&logo=docker&logoColor=EDE9FE&labelColor=0D0D1A)
+![Streamlit](https://img.shields.io/badge/Streamlit-C4B5FD?style=for-the-badge&logo=streamlit&logoColor=0D0D1A&labelColor=0D0D1A)
+
+</div>
+
+---
+
+## ✦ experience
+
+### 💼 Full Stack Development Intern — CodeAlpha
 **June 2026 – August 2026**
 
-- Worked on full-stack development projects, applying web development concepts through hands-on implementation.
-- Developed practical understanding of frontend and backend development, REST APIs, database integration, and software development workflows.
-- Applied programming and web development skills to assigned tasks while gaining experience in building and integrating full-stack applications.
+- Worked on full-stack development projects through hands-on implementation.
+- Gained practical experience with frontend and backend development, REST APIs, database integration, and software development workflows.
+- Applied programming and web development skills to build and integrate full-stack applications.
 
 ---
 
-## 🚀 Featured Projects
+## ✦ featured projects
 
 ### 🏋️ AI Realtime Gym Coach
-**Python • MediaPipe • OpenCV • Streamlit • Streamlit-WebRTC • Groq API • gTTS • Pandas • LLMs**
 
-Real-time AI fitness coach that uses webcam-based pose estimation to analyze exercise form, count repetitions, and provide AI-powered voice feedback.
+**Python · MediaPipe · OpenCV · Streamlit · Streamlit-WebRTC · Groq API · gTTS · Pandas**
+
+> Real-time AI fitness coach using webcam-based pose estimation to analyze exercise form, count repetitions, and provide voice coaching.
 
 - Tracks body landmarks using MediaPipe and OpenCV.
-- Automatically counts repetitions for squats, push-ups, curls, shoulder presses, and lunges.
-- Uses Groq LLM APIs and gTTS for contextual coaching and real-time voice instructions.
-- Uses Streamlit WebRTC for low-latency webcam processing.
+- Supports squats, push-ups, biceps curls, shoulder presses, and lunges.
+- Uses Groq LLM APIs for contextual coaching feedback.
+- Uses gTTS for real-time voice instructions.
+- Built with Streamlit WebRTC for low-latency webcam processing.
 
-🔗 **Repository:** https://github.com/singhSanskriti016/AI-Realtime-Gym-Coach-
+🔗 [Repository](https://github.com/singhSanskriti016/AI-Realtime-Gym-Coach-)
 
 ---
 
 ### 📱 SyncUp — MERN Social Media Platform
-**MongoDB • Express.js • React.js • Node.js • REST APIs • JavaScript • HTML • CSS**
 
-A full-stack social media platform inspired by Instagram.
+**MongoDB · Express.js · React.js · Node.js · REST APIs · JavaScript**
 
-- Implemented user authentication, profiles, post creation, likes, comments, and follow/unfollow functionality.
+> Full-stack social media application inspired by Instagram.
+
+- Implemented user authentication, profiles, posts, likes, comments, and follow/unfollow functionality.
 - Built RESTful APIs using Node.js and Express.js.
 - Integrated MongoDB for persistent data storage.
-- Developed a responsive React-based frontend.
+- Developed the frontend using React.js.
 
-🔗 **Repository:** https://github.com/singhSanskriti016/syncUp-SocialMedia
+🔗 [Repository](https://github.com/singhSanskriti016/syncUp-SocialMedia)
 
 ---
 
 ### 🌾 FASALGPT — AI Agriculture Advisory System
-**Python • Machine Learning • CNN • Scikit-learn • TensorFlow • Streamlit • OpenWeather API**
 
-AI-powered agriculture advisory application combining machine learning, CNN-based analysis, and real-time weather information.
+**Python · Machine Learning · CNN · Scikit-learn · TensorFlow · Streamlit · OpenWeather API**
 
-- Built structured data pipelines for preprocessing, transformation, and model inference.
-- Integrated a third-party weather API to extract and transform real-time data.
-- Built an interactive Streamlit application connecting backend inference with a user-facing interface.
+> AI-powered agriculture advisory application combining machine learning, CNN-based analysis, and real-time weather information.
 
-🔗 **Repository:** https://github.com/singhSanskriti016/FASALGPT-
+- Built data pipelines for preprocessing, transformation, and model inference.
+- Integrated OpenWeather API for real-time weather data.
+- Built an interactive Streamlit application connecting model inference with the user interface.
 
----
-
-## 🎓 Education
-
-### IEC College of Engineering and Technology
-**Bachelor of Technology (B.Tech) — Information Technology**  
-**Expected Graduation:** 2027  
-**CGPA:** 7.2 / 10
+🔗 [Repository](https://github.com/singhSanskriti016/FASALGPT-)
 
 ---
 
-## 📜 Certifications
+## ✦ github stats
 
-*Add certifications here*
+<div align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhSanskriti016&theme=2077" width="38%" height="auto" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhSanskriti016&theme=2077" width="38%" height="auto" />
 
-## 📊 Coding & Development
-
-- 🔹 Data Structures & Algorithms
-- 🔹 Backend & REST API Development
-- 🔹 Full Stack Development
-- 🔹 AI/ML & Generative AI
-- 🔹 Problem Solving
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## ✦ contribution matrix
 
-I'm interested in opportunities involving **Full Stack Development, Backend Development, AI/ML, and Generative AI**.
+<div align="center">
 
-📧 **Email:** singh.sanskriti0016@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sanskriti-singh-6teen/  
-💻 **GitHub:** https://github.com/singhSanskriti016  
-🧩 **LeetCode:** https://leetcode.com/u/singhsanskriti/
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singhSanskriti016/singhSanskriti016/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singhSanskriti016/singhSanskriti016/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/singhSanskriti016/singhSanskriti016/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## ✦ connect
+
+<div align="center">
+
+📧 **singh.sanskriti0016@gmail.com**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sanskriti-singh-6teen/) ·
+💻 [GitHub](https://github.com/singhSanskriti016) ·
+🧩 [LeetCode](https://leetcode.com/u/singhsanskriti/)
+
+<br>
+
+*"Build. Learn. Debug. Repeat."*
+
+</div>
